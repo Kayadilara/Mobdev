@@ -22,7 +22,7 @@ useEffect(() => {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p> Hallo {name} is {age}</p>
+        <p> Hallo {name} is {age} !</p>
         <a
           className="App-link"
           href="https://reactjs.org"
